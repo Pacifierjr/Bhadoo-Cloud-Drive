@@ -1,9 +1,9 @@
 {
     "name": "SaveToGoogleDrive - TagGDsave",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/Pacifierjr/Bhadoo-Cloud-Drive",
-    "logo": "https://raw.githubusercontent.com/Pacifierjr/Bhadoo-Cloud-Drive/master/src/main/resources/static/img/savetodrive.png",
-    "keywords": ["google","drive","gdsave","direct url"],
+    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
+    "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
+    "keywords": ["google","drive","bhadoo","bhadoo cloud"],
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
