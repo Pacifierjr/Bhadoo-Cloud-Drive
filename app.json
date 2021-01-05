@@ -1,7 +1,7 @@
 {
     "name": "SaveToGoogleDrive - Bhadoo Cloud",
     "description": "App to Upload files directly to Google Drive",
-    "repository": "https://github.com/ParveenBhadooOfficial/SaveToGoogleDrive",
+    "repository": "https://github.com/Pacifierjr/Bhadoo-Cloud-Drive",
     "logo": "https://raw.githubusercontent.com/ParveenBhadooOfficial/SaveToGoogleDrive/master/src/main/resources/static/img/savetodrive.png",
     "keywords": ["google","drive","bhadoo","bhadoo cloud"],
     "env": {
