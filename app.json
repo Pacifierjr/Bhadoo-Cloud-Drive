@@ -15,7 +15,7 @@
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://app.example.com/api/oauth/google/callback (Replace this with your own)",
-            "value": "https://gdsave.herokuapp.com/api/oauth/google/callback"
+            "value": "http://gdsave.herokuapp.com/api/oauth/google/callback"
         }
     }
 }
