@@ -7,11 +7,11 @@
     "env": {
         "client_id": {
             "description": "Client ID from Google Console (http://bit.ly/37ED7dv)",
-            "value": "786177786080-81kqcfa3fsm19i2a92mciol5jjd86jq7.apps.googleusercontent.com"
+            "value": "188704599209-3h5oqfcd3rqjh32815d332g0d4ohuvpp.apps.googleusercontent.com"
         },
         "client_secret": {
             "description": "Client Secret from Google Console (http://bit.ly/37ED7dv)",
-            "value": "Uv05QtpFyk12s_eXLSYO8QFN"
+            "value": "nAUUbN8ZapbBXqWrjS82gELN"
         },
         "redirect_uri": {
             "description": "Your App URL eg. https://app.example.com/api/oauth/google/callback (Replace this with your own)",
